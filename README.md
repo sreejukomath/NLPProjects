@@ -5,6 +5,7 @@ Google I/O samples
 https://github.com/GoogleCloudPlatform/ai-platform-text-classifier-shap
 
 Basic NLP and semantic analysis
+
 https://www.youtube.com/watch?v=KVxIx8f_VpM
 
 Topic modeling
