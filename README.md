@@ -8,6 +8,7 @@ Basic NLP and semantic analysis
 https://www.youtube.com/watch?v=KVxIx8f_VpM
 
 Topic modeling
+
 https://github.com/atulsinghphd/NLP/blob/master/TopicModelingUsingLDA.ipynb
 
 https://github.com/moorissa/nmf_nyt
