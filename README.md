@@ -25,3 +25,5 @@ Guided LDA : https://github.com/NThakur20/GuidedLDA
 
 Bhargav Srinivasa Desikan - Topic Modelling with Gensim
 https://www.youtube.com/watch?v=KZkLmN1Bzok
+
+Text Analysis https://github.com/bhargavvader/personal/blob/master/notebooks/text_analysis_tutorial/text_analysis_tutorial_unrun.ipynb
