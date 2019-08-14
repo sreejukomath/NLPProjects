@@ -20,3 +20,5 @@ https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in
 https://github.com/susanli2016/NLP-with-Python/blob/master/LDA_news_headlines.ipynb
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333320/
+
+Guided LDA : https://github.com/NThakur20/GuidedLDA
