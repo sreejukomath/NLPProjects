@@ -22,3 +22,6 @@ https://github.com/susanli2016/NLP-with-Python/blob/master/LDA_news_headlines.ip
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333320/
 
 Guided LDA : https://github.com/NThakur20/GuidedLDA
+
+Bhargav Srinivasa Desikan - Topic Modelling with Gensim
+https://www.youtube.com/watch?v=KZkLmN1Bzok
