@@ -18,3 +18,5 @@ https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-laten
 
 https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
 https://github.com/susanli2016/NLP-with-Python/blob/master/LDA_news_headlines.ipynb
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333320/
