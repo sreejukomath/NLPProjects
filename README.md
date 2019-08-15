@@ -2,11 +2,16 @@
 
 Google I/O samples
 
+
 https://github.com/GoogleCloudPlatform/ai-platform-text-classifier-shap
 
 Basic NLP and semantic analysis
 
+Intellipaat: Natural Language Processing (NLP) Tutorial | NLP Training
 https://www.youtube.com/watch?v=KVxIx8f_VpM
+
+ODSC: Understanding Unstructured Data with Language Models - Alex Peattie
+https://www.youtube.com/watch?time_continue=37&v=4fMwu7K3HmQ
 
 Topic modeling
 
