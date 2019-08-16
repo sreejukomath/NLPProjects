@@ -33,3 +33,7 @@ https://www.youtube.com/watch?v=KZkLmN1Bzok
 
 Text Analysis https://github.com/bhargavvader/personal/blob/master/notebooks/text_analysis_tutorial/text_analysis_tutorial_unrun.ipynb
 https://www.youtube.com/watch?v=ZkAFJwi-G98
+
+Evaluation
+
+https://towardsdatascience.com/metrics-for-evaluating-machine-learning-classification-models-python-example-59b905e079a5
