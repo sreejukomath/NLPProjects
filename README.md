@@ -37,3 +37,19 @@ https://www.youtube.com/watch?v=ZkAFJwi-G98
 Evaluation
 
 https://towardsdatascience.com/metrics-for-evaluating-machine-learning-classification-models-python-example-59b905e079a5
+
+Predict next word 
+
+Patrick Harrison: Modern NLP in Python | PyData DC 2016 ( 1:11:00)
+https://www.youtube.com/watch?v=6zm9NC9uRkk
+
+https://towardsdatascience.com/building-a-next-word-predictor-in-tensorflow-e7e681d4f03f
+https://towardsdatascience.com/skip-gram-nlp-context-words-prediction-algorithm-5bbf34f84e0c
+
+https://github.com/tensorflow/docs/blob/master/site/en/tutorials/representation/word2vec.md
+
+Minsuk Heo : Word2Vec (introduce and tensorflow implementation)
+https://www.youtube.com/watch?v=64qSgA66P-8
+https://github.com/minsuk-heo/python_tutorial/blob/master/data_science/nlp/word2vec_tensorflow.ipynb
+
+
