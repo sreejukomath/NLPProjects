@@ -5,7 +5,7 @@ Google I/O samples
 
 https://github.com/GoogleCloudPlatform/ai-platform-text-classifier-shap
 
-Basic NLP and semantic analysis
+>> Day 1 & Day 2: Basic NLP and semantic analysis
 
 Intellipaat: Natural Language Processing (NLP) Tutorial | NLP Training
 https://www.youtube.com/watch?v=KVxIx8f_VpM
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=KVxIx8f_VpM
 ODSC: Understanding Unstructured Data with Language Models - Alex Peattie
 https://www.youtube.com/watch?time_continue=37&v=4fMwu7K3HmQ
 
-Topic modeling
+>> Day 3: Topic modeling
 
 https://github.com/atulsinghphd/NLP/blob/master/TopicModelingUsingLDA.ipynb
 
@@ -38,7 +38,7 @@ Evaluation
 
 https://towardsdatascience.com/metrics-for-evaluating-machine-learning-classification-models-python-example-59b905e079a5
 
-Predict next word 
+>> Day 4: Predict next word 
 
 Patrick Harrison: Modern NLP in Python | PyData DC 2016 ( 1:11:00)
 https://www.youtube.com/watch?v=6zm9NC9uRkk
