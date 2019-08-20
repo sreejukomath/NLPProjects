@@ -1,4 +1,4 @@
-# NLP 10 Days Challenge
+# 10 Days NLP Challenge
 
 Google I/O samples
 
