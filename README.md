@@ -59,3 +59,5 @@ https://skymind.ai/wiki/word2vec
 
 https://datascience.stackexchange.com/questions/9785/predicting-a-word-using-word2vec-model
 
+https://www.guru99.com/word-embedding-word2vec.html
+
