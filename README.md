@@ -52,4 +52,5 @@ Minsuk Heo : Word2Vec (introduce and tensorflow implementation)
 https://www.youtube.com/watch?v=64qSgA66P-8
 https://github.com/minsuk-heo/python_tutorial/blob/master/data_science/nlp/word2vec_tensorflow.ipynb
 
+https://skymind.ai/wiki/word2vec
 
