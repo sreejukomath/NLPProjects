@@ -1,4 +1,4 @@
-# NLPProjects
+# NLP 10 Days Chanllenge
 
 Google I/O samples
 
