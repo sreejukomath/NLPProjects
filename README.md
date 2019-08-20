@@ -41,6 +41,8 @@ https://towardsdatascience.com/metrics-for-evaluating-machine-learning-classific
 
 >> Day 4: Predict next word 
 
+https://chunml.github.io/ChunML.github.io/project/Creating-Text-Generator-Using-Recurrent-Neural-Network/
+
 Patrick Harrison: Modern NLP in Python | PyData DC 2016 ( 1:11:00)
 https://www.youtube.com/watch?v=6zm9NC9uRkk
 
@@ -54,4 +56,6 @@ https://www.youtube.com/watch?v=64qSgA66P-8
 https://github.com/minsuk-heo/python_tutorial/blob/master/data_science/nlp/word2vec_tensorflow.ipynb
 
 https://skymind.ai/wiki/word2vec
+
+https://datascience.stackexchange.com/questions/9785/predicting-a-word-using-word2vec-model
 
