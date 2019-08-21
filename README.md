@@ -41,6 +41,8 @@ https://towardsdatascience.com/metrics-for-evaluating-machine-learning-classific
 
 >> Day 4: Predict next word 
 
+https://github.com/seyedsaeidmasoumzadeh/Predict-next-word
+
 https://chunml.github.io/ChunML.github.io/project/Creating-Text-Generator-Using-Recurrent-Neural-Network/
 
 Patrick Harrison: Modern NLP in Python | PyData DC 2016 ( 1:11:00)
