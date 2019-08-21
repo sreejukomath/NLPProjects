@@ -67,3 +67,14 @@ https://www.guru99.com/word-embedding-word2vec.html
 
 A Friendly Introduction to Machine Learning
 https://explosion.ai/blog/deep-learning-formula-nlp
+
+But what is a Neural Network? 
+https://www.youtube.com/watch?v=aircAruvnKk&t=5s
+
+Gradient descent, how neural networks learn 
+https://www.youtube.com/watch?v=IHZwWFHWa-w&t=59s
+
+What is backpropagation really doing?
+https://www.youtube.com/watch?v=Ilg3gGewQ5U
+
+
