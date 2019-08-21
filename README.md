@@ -63,3 +63,7 @@ https://datascience.stackexchange.com/questions/9785/predicting-a-word-using-wor
 
 https://www.guru99.com/word-embedding-word2vec.html
 
+>> Aditional references
+
+A Friendly Introduction to Machine Learning
+https://explosion.ai/blog/deep-learning-formula-nlp
