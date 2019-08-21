@@ -77,4 +77,5 @@ https://www.youtube.com/watch?v=IHZwWFHWa-w&t=59s
 What is backpropagation really doing?
 https://www.youtube.com/watch?v=Ilg3gGewQ5U
 
+Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models
 https://explosion.ai/blog/deep-learning-formula-nlp
