@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=6zm9NC9uRkk
 https://towardsdatascience.com/building-a-next-word-predictor-in-tensorflow-e7e681d4f03f
 https://towardsdatascience.com/skip-gram-nlp-context-words-prediction-algorithm-5bbf34f84e0c
 
-https://github.com/tensorflow/docs/blob/master/site/en/tutorials/representation/word2vec.md
+>> Day 5: Word Embeddings - word2Vec, Glove, NGram
 
 Minsuk Heo : Word2Vec (introduce and tensorflow implementation)
 https://www.youtube.com/watch?v=64qSgA66P-8
@@ -62,6 +62,28 @@ https://skymind.ai/wiki/word2vec
 https://datascience.stackexchange.com/questions/9785/predicting-a-word-using-word2vec-model
 
 https://www.guru99.com/word-embedding-word2vec.html
+
+https://github.com/tensorflow/docs/blob/master/site/en/tutorials/representation/word2vec.md
+
+>> Day 6: LSTM, IF-TDF, Naive Bayes
+
+TODO
+
+>> Day 7: Computer vision - CNN
+
+TODO
+
+>> Day 8: Transfer learning
+
+TODO
+
+>> Day 9: Pretrained models - BERT, ElMo, ULMFit
+
+TODO
+
+>> Day 10: Research paper
+
+TODO
 
 >> Aditional references
 
