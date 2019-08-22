@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=KZkLmN1Bzok
 https://github.com/bhargavvader/personal/blob/master/notebooks/text_analysis_tutorial/topic_modelling_unrun.ipynb
 
 Text Analysis https://github.com/bhargavvader/personal/blob/master/notebooks/text_analysis_tutorial/text_analysis_tutorial_unrun.ipynb
+
 https://www.youtube.com/watch?v=ZkAFJwi-G98
 
 Evaluation
