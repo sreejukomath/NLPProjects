@@ -83,7 +83,19 @@ https://ahmedbesbes.com/automate-the-diagnosis-of-knee-injuries-with-deep-learni
 https://ahmedbesbes.com/automate-the-diagnosis-of-knee-injuries-with-deep-learning-part-3-interpret-models-predictions.html
 
 
->> Day 8: Transfer learning
+>> Day 8: Pretrained models - BERT, ElMo, ULMFit
+
+TODO
+
+ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
+
+ImageNet is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.
+
+https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
+https://github.com/fchollet/deep-learning-models
+
+>> Day 9: Transfer learning
 
 TODO
 
@@ -96,17 +108,6 @@ https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learni
 Transfer Learning using ELMO Embeddings
 https://towardsdatascience.com/transfer-learning-using-elmo-embedding-c4a7e415103c
 
->> Day 9: Pretrained models - BERT, ElMo, ULMFit
-
-TODO
-
-ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
-
-ImageNet is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.
-
-https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
-
-https://github.com/fchollet/deep-learning-models
 
 >> Day 10: Research paper
 
