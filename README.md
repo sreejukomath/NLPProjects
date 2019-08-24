@@ -91,6 +91,12 @@ https://ahmedbesbes.com/automate-the-diagnosis-of-knee-injuries-with-deep-learni
 
 TODO
 
+BERT is a method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). BERT outperforms previous methods because it is the first unsupervised, deeply bidirectional system for pre-training NLP.
+
+BERT Explained: State of the art language model for NLP
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+https://github.com/google-research/bert
+
 ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
 
 ImageNet is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.
