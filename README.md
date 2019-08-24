@@ -87,6 +87,8 @@ https://ahmedbesbes.com/automate-the-diagnosis-of-knee-injuries-with-deep-learni
 
 TODO
 
+A neural network is trained on a data. This network gains knowledge from this data, which is compiled as “weights” of the network. These weights can be extracted and then transferred to any other neural network. Instead of training the other neural network from scratch, we “transfer” the learned features.
+
 >> Day 9: Pretrained models - BERT, ElMo, ULMFit
 
 TODO
