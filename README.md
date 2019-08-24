@@ -131,5 +131,9 @@ https://www.youtube.com/watch?v=IHZwWFHWa-w&t=59s
 What is backpropagation really doing?
 https://www.youtube.com/watch?v=Ilg3gGewQ5U
 
+Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
+https://www.youtube.com/watch?v=WCUNPb-5EYI&t=176s
+
+
 Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models
 https://explosion.ai/blog/deep-learning-formula-nlp
