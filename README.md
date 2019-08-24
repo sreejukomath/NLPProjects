@@ -66,6 +66,10 @@ https://www.guru99.com/word-embedding-word2vec.html
 
 https://github.com/tensorflow/docs/blob/master/site/en/tutorials/representation/word2vec.md
 
+Unsupervised sentence representation with deep learning
+https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-learning-104b90079a93
+
+
 >> Day 6: LSTM, IF-TDF, Naive Bayes
 
 TODO
