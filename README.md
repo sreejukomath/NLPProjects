@@ -89,6 +89,11 @@ TODO
 
 A neural network is trained on a data. This network gains knowledge from this data, which is compiled as “weights” of the network. These weights can be extracted and then transferred to any other neural network. Instead of training the other neural network from scratch, we “transfer” the learned features.
 
+A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning
+
+https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
+
+
 >> Day 9: Pretrained models - BERT, ElMo, ULMFit
 
 TODO
