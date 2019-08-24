@@ -94,7 +94,11 @@ A neural network is trained on a data. This network gains knowledge from this da
 TODO
 
 ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
+
+ImageNet is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.
+
 https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
 https://github.com/fchollet/deep-learning-models
 
 >> Day 10: Research paper
