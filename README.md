@@ -93,6 +93,10 @@ A neural network is trained on a data. This network gains knowledge from this da
 
 TODO
 
+ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
+https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+https://github.com/fchollet/deep-learning-models
+
 >> Day 10: Research paper
 
 TODO
