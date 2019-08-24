@@ -93,6 +93,8 @@ A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications
 
 https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
 
+Transfer Learning using ELMO Embeddings
+https://towardsdatascience.com/transfer-learning-using-elmo-embedding-c4a7e415103c
 
 >> Day 9: Pretrained models - BERT, ElMo, ULMFit
 
