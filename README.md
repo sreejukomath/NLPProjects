@@ -103,7 +103,6 @@ https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-featur
 https://github.com/IreneZihuiLi/deeplearning/blob/master/ELMo_test.py
 
 
-https://github.com/fchollet/deep-learning-models
 
 >> Day 9: Transfer learning
 
@@ -149,3 +148,5 @@ ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
 ImageNet is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.
 
 https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+https://github.com/fchollet/deep-learning-models
+
