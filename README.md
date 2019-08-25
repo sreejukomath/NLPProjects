@@ -100,6 +100,8 @@ https://github.com/google-research/bert
 A Step-by-Step NLP Guide to Learn ELMo for Extracting Features from Text
 https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/
 
+https://github.com/IreneZihuiLi/deeplearning/blob/master/ELMo_test.py
+
 
 https://github.com/fchollet/deep-learning-models
 
