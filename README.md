@@ -114,6 +114,8 @@ https://github.com/navneetkrc/Colab_fastai/blob/master/ULMFiT_fastai_Text_Classi
 
 https://github.com/jannenev/ulmfit-language-model
 
+https://humboldt-wi.github.io/blog/research/information_systems_1819/group4_ulmfit/
+
 The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
 http://jalammar.github.io/illustrated-bert/
 
