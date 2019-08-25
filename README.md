@@ -160,6 +160,6 @@ ImageNet is formally a project aimed at (manually) labeling and categorizing ima
 
 https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 https://github.com/fchollet/deep-learning-models
-https://www.youtube.com/watch?v=mPFq5KMxKVw
+
 
 
