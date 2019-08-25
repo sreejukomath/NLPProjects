@@ -73,7 +73,7 @@ Unsupervised sentence representation with deep learning
 https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-learning-104b90079a93
 
 
->> Day 6: LSTM, IF-TDF, Naive Bayes
+>> Day 6: LSTM, TF-IDF, Naive Bayes
 
 LSTM
 
@@ -82,8 +82,8 @@ https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction
 How to make a digital version of You!
 https://medium.com/datadriveninvestor/how-to-make-digital-version-of-you-2a29cf823e85
 
-Natural Language Processing with Python: Frequency Distribution with NLTK
-https://www.youtube.com/watch?v=tCPDNCMW5D8
+Chatbots are cool! A framework using Python (TF-IDF)
+https://towardsdatascience.com/chatbots-are-cool-a-framework-using-python-part-1-overview-7c69af7a7439
 
 
 >> Day 7: Computer vision - CNN
