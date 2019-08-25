@@ -78,6 +78,8 @@ LSTM
 
 https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction
 
+How to make a digital version of You!
+https://medium.com/datadriveninvestor/how-to-make-digital-version-of-you-2a29cf823e85
 
 
 >> Day 7: Computer vision - CNN
