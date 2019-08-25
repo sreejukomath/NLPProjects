@@ -89,8 +89,6 @@ https://ahmedbesbes.com/automate-the-diagnosis-of-knee-injuries-with-deep-learni
 
 >> Day 8: Pretrained models - BERT, ElMo, ULMFit
 
-TODO
-
 BERT is a method of pre-training language representations, meaning that we train a general-purpose "language understanding" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering). BERT outperforms previous methods because it is the first unsupervised, deeply bidirectional system for pre-training NLP.
 
 BERT Explained: State of the art language model for NLP
@@ -114,10 +112,11 @@ Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python
 https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
 https://github.com/navneetkrc/Colab_fastai/blob/master/ULMFiT_fastai_Text_Classification.ipynb
 
+The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
+http://jalammar.github.io/illustrated-bert/
+
 
 >> Day 9: Transfer learning
-
-TODO
 
 A neural network is trained on a data. This network gains knowledge from this data, which is compiled as “weights” of the network. These weights can be extracted and then transferred to any other neural network. Instead of training the other neural network from scratch, we “transfer” the learned features.
 
