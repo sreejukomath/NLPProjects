@@ -97,11 +97,9 @@ BERT Explained: State of the art language model for NLP
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 https://github.com/google-research/bert
 
-ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
+A Step-by-Step NLP Guide to Learn ELMo for Extracting Features from Text
+https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/
 
-ImageNet is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.
-
-https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 
 https://github.com/fchollet/deep-learning-models
 
@@ -143,3 +141,9 @@ https://www.youtube.com/watch?v=WCUNPb-5EYI&t=176s
 
 Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models
 https://explosion.ai/blog/deep-learning-formula-nlp
+
+ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
+
+ImageNet is formally a project aimed at (manually) labeling and categorizing images into almost 22,000 separate object categories for the purpose of computer vision research.
+
+https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
