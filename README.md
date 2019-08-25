@@ -75,14 +75,15 @@ https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-lea
 
 >> Day 6: LSTM, IF-TDF, Naive Bayes
 
-TODO
-
 LSTM
 
 https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction
 
 How to make a digital version of You!
 https://medium.com/datadriveninvestor/how-to-make-digital-version-of-you-2a29cf823e85
+
+Natural Language Processing with Python: Frequency Distribution with NLTK
+https://www.youtube.com/watch?v=tCPDNCMW5D8
 
 
 >> Day 7: Computer vision - CNN
