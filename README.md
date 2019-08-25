@@ -112,6 +112,8 @@ Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python
 https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
 https://github.com/navneetkrc/Colab_fastai/blob/master/ULMFiT_fastai_Text_Classification.ipynb
 
+https://github.com/jannenev/ulmfit-language-model
+
 The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
 http://jalammar.github.io/illustrated-bert/
 
