@@ -74,6 +74,12 @@ https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-lea
 
 TODO
 
+LSTM
+
+https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction
+
+
+
 >> Day 7: Computer vision - CNN
 
 TODO
