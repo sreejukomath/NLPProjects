@@ -110,6 +110,10 @@ https://github.com/keitakurita/Practical_NLP_in_PyTorch/blob/master/allennlp/elm
 
 https://gluon-nlp.mxnet.io/examples/sentence_embedding/elmo_sentence_representation.html
 
+Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python
+https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
+https://github.com/navneetkrc/Colab_fastai/blob/master/ULMFiT_fastai_Text_Classification.ipynb
+
 
 >> Day 9: Transfer learning
 
@@ -156,4 +160,6 @@ ImageNet is formally a project aimed at (manually) labeling and categorizing ima
 
 https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 https://github.com/fchollet/deep-learning-models
+https://www.youtube.com/watch?v=mPFq5KMxKVw
+
 
