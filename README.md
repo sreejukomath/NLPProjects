@@ -36,6 +36,9 @@ Text Analysis https://github.com/bhargavvader/personal/blob/master/notebooks/tex
 
 https://www.youtube.com/watch?v=ZkAFJwi-G98
 
+https://www.youtube.com/watch?v=NYkbqzTlW3w
+
+
 Evaluation
 
 https://towardsdatascience.com/metrics-for-evaluating-machine-learning-classification-models-python-example-59b905e079a5
