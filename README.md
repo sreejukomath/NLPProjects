@@ -102,6 +102,7 @@ https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-featur
 
 https://github.com/IreneZihuiLi/deeplearning/blob/master/ELMo_test.py
 
+https://github.com/keitakurita/Practical_NLP_in_PyTorch/blob/master/allennlp/elmo_text_classification.ipynb
 
 
 >> Day 9: Transfer learning
