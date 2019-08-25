@@ -104,6 +104,8 @@ https://github.com/IreneZihuiLi/deeplearning/blob/master/ELMo_test.py
 
 https://github.com/keitakurita/Practical_NLP_in_PyTorch/blob/master/allennlp/elmo_text_classification.ipynb
 
+https://gluon-nlp.mxnet.io/examples/sentence_embedding/elmo_sentence_representation.html
+
 
 >> Day 9: Transfer learning
 
