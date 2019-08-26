@@ -106,6 +106,9 @@ https://ahmedbesbes.com/automate-the-diagnosis-of-knee-injuries-with-deep-learni
 
 https://ahmedbesbes.com/automate-the-diagnosis-of-knee-injuries-with-deep-learning-part-3-interpret-models-predictions.html
 
+Interpreting Deep Learning Models for Computer Vision
+
+https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d
 
 >> Day 8: Pretrained models - BERT, ElMo, ULMFit
 
