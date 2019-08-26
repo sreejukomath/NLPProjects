@@ -73,6 +73,11 @@ Unsupervised sentence representation with deep learning
 https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-learning-104b90079a93
 
 
+GloVe is an unsupervised learning algorithm from standford for obtaining vector representations for words. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space.
+
+https://nlp.stanford.edu/projects/glove/
+
+
 >> Day 6: LSTM, Attention, Transformers
 
 LSTM
