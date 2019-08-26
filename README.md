@@ -176,4 +176,7 @@ https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xcepti
 https://github.com/fchollet/deep-learning-models
 
 
+GLOSSARY OF TERMS AND DEFINITIONS
+https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
+
 
