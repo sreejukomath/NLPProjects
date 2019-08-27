@@ -179,6 +179,9 @@ https://www.youtube.com/watch?v=WCUNPb-5EYI&t=176s
 TF-IDF Document Similarity using Cosine Similarity
 https://www.youtube.com/watch?v=hc3DCn8viWs
 
+Text Similarities : Estimate the degree of similarity between two texts
+https://medium.com/@adriensieg/text-similarities-da019229c894
+
 
 Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models
 https://explosion.ai/blog/deep-learning-formula-nlp
