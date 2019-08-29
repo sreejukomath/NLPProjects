@@ -196,6 +196,8 @@ https://github.com/fchollet/deep-learning-models
 Softmax Regression
 https://github.com/nikhilroxtomar/Introduction-to-TensorFlow/blob/master/06%20-%20%20Multinomial%20Logistic%20Regression%20%7C%20Softmax%20Regression.ipynb
 
+https://www.youtube.com/watch?v=1e_EiTjypHU
+
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
 
