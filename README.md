@@ -201,6 +201,9 @@ https://github.com/nikhilroxtomar/Introduction-to-TensorFlow/blob/master/06%20-%
 
 https://www.youtube.com/watch?v=1e_EiTjypHU
 
+Performing OCR by running parallel instances of Tesseract 4.0 : Python
+https://appliedmachinelearning.blog/2018/06/30/performing-ocr-by-running-parallel-instances-of-tesseract-4-0-python/
+
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
 
