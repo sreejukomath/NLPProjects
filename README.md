@@ -154,6 +154,9 @@ https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learni
 Transfer Learning using ELMO Embeddings
 https://towardsdatascience.com/transfer-learning-using-elmo-embedding-c4a7e415103c
 
+Transfer Learning using Feature Extraction from Trained model: Food Images Classification 
+https://appliedmachinelearning.blog/2019/07/29/transfer-learning-using-feature-extraction-from-trained-models-food-images-classification/
+
 
 >> Day 10: Research paper
 
