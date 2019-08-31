@@ -207,6 +207,8 @@ https://appliedmachinelearning.blog/2018/06/30/performing-ocr-by-running-paralle
 Training Deep Learning based Named Entity Recognition from Scratch : Disease Extraction Hackathon
 https://appliedmachinelearning.blog/2019/04/01/training-deep-learning-based-named-entity-recognition-from-scratch-disease-extraction-hackathon/
 
+Art of Effective Visualization of Multi-dimensional Data by Dipanjan Sarkar
+https://www.youtube.com/watch?v=2yRl-DEu0g0&t=2651s
 
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
