@@ -209,6 +209,8 @@ https://appliedmachinelearning.blog/2019/04/01/training-deep-learning-based-name
 
 Art of Effective Visualization of Multi-dimensional Data by Dipanjan Sarkar
 https://www.youtube.com/watch?v=2yRl-DEu0g0&t=2651s
+https://github.com/dipanjanS/art_of_data_visualization
+
 
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
