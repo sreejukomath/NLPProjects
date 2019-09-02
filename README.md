@@ -118,6 +118,9 @@ BERT Explained: State of the art language model for NLP
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 https://github.com/google-research/bert
 
+https://towardsdatascience.com/breaking-bert-down-430461f60efb
+
+
 Embeddings from Language Models(ELMo for short)
 
 This model is pre-trained with a self-supervising task called a bidirectional language model; they show that the representation from this model is powerful and improves the state-of-the-art performance on many tasks such as question-answer activities, natural language inference, semantic role labeling, coreference resolution, named-entity recognition, and sentiment analysis.
