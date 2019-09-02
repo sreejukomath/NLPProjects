@@ -121,6 +121,9 @@ https://github.com/google-research/bert
 Breaking BERT Down
 https://towardsdatascience.com/breaking-bert-down-430461f60efb
 
+Some examples of applying BERT in specific domain
+https://towardsdatascience.com/how-to-apply-bert-in-scientific-domain-2d9db0480bd9
+
 
 Embeddings from Language Models(ELMo for short)
 
