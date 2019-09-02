@@ -118,6 +118,8 @@ BERT Explained: State of the art language model for NLP
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 https://github.com/google-research/bert
 
+https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+
 Breaking BERT Down
 https://towardsdatascience.com/breaking-bert-down-430461f60efb
 
