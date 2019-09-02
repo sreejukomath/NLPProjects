@@ -171,6 +171,9 @@ https://appliedmachinelearning.blog/2019/07/29/transfer-learning-using-feature-e
 
 TODO
 
+ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing
+https://www.researchgate.net/publication/331246329_ScispaCy_Fast_and_Robust_Models_for_Biomedical_Natural_Language_Processing
+
 >> Aditional references
 
 A Friendly Introduction to Machine Learning
