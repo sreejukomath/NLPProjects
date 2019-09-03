@@ -174,6 +174,9 @@ TODO
 ScispaCy: Fast and Robust Models for Biomedical Natural Language Processing
 https://www.researchgate.net/publication/331246329_ScispaCy_Fast_and_Robust_Models_for_Biomedical_Natural_Language_Processing
 
+Effective Use of Bidirectional Language Modeling for Transfer Learning in Biomedical Named Entity Recognition
+https://arxiv.org/abs/1711.07908v3
+
 >> Aditional references
 
 A Friendly Introduction to Machine Learning
