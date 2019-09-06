@@ -229,6 +229,9 @@ https://github.com/dipanjanS/art_of_data_visualization
 Doc Product: Medical Q&A with Deep Language Models
 https://github.com/re-search/DocProduct
 
+Choosing one of many Python visualization tools
+https://blog.magrathealabs.com/choosing-one-of-many-python-visualization-tools-7eb36fa5855f
+
 
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
