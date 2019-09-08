@@ -197,6 +197,9 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 Activation Functions in Neural Networks (Sigmoid, ReLU, tanh, softmax)
 https://www.youtube.com/watch?v=9vB5nzrL4hY
 
+Core Concepts of Deep Learning & Neural Networks
+https://www.analyticsvidhya.com/blog/2016/08/evolution-core-concepts-deep-learning-neural-networks/
+
 
 Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
 https://www.youtube.com/watch?v=WCUNPb-5EYI&t=176s
