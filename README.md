@@ -194,6 +194,10 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
 https://www.youtube.com/watch?v=WCUNPb-5EYI&t=176s
 
+How convolutional neural networks work, in depth
+https://www.youtube.com/watch?v=JB8T_zN7ZC0&t=83s
+
+
 TF-IDF Document Similarity using Cosine Similarity
 https://www.youtube.com/watch?v=hc3DCn8viWs
 
