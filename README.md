@@ -240,6 +240,9 @@ https://github.com/re-search/DocProduct
 Choosing one of many Python visualization tools
 https://blog.magrathealabs.com/choosing-one-of-many-python-visualization-tools-7eb36fa5855f
 
+Building a Speaker Identification System from Scratch with Deep Learning
+https://medium.com/analytics-vidhya/building-a-speaker-identification-system-from-scratch-with-deep-learning-f4c4aa558a56
+
 
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
