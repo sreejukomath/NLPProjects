@@ -232,6 +232,8 @@ https://github.com/re-search/DocProduct
 Choosing one of many Python visualization tools
 https://blog.magrathealabs.com/choosing-one-of-many-python-visualization-tools-7eb36fa5855f
 
+Activation Functions in Neural Networks (Sigmoid, ReLU, tanh, softmax)
+https://www.youtube.com/watch?v=9vB5nzrL4hY
 
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
