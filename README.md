@@ -177,6 +177,9 @@ https://www.researchgate.net/publication/331246329_ScispaCy_Fast_and_Robust_Mode
 Effective Use of Bidirectional Language Modeling for Transfer Learning in Biomedical Named Entity Recognition
 https://arxiv.org/abs/1711.07908v3
 
+VoxCeleb2: Deep Speaker Recognition
+https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf
+
 >> Aditional references
 
 A Friendly Introduction to Machine Learning
