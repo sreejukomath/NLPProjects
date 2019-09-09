@@ -72,6 +72,10 @@ https://github.com/tensorflow/docs/blob/master/site/en/tutorials/representation/
 Unsupervised sentence representation with deep learning
 https://blog.myyellowroad.com/unsupervised-sentence-representation-with-deep-learning-104b90079a93
 
+An Empirical Evaluation of doc2vec with Practical Insights into Document Embedding Generation
+https://github.com/jhlau/doc2vec#pre-trained-doc2vec-models
+https://arxiv.org/abs/1607.05368
+
 
 GloVe is an unsupervised learning algorithm from standford for obtaining vector representations for words. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space.
 
