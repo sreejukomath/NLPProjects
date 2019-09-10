@@ -255,9 +255,10 @@ https://blog.magrathealabs.com/choosing-one-of-many-python-visualization-tools-7
 
 Building a Speaker Identification System from Scratch with Deep Learning
 https://medium.com/analytics-vidhya/building-a-speaker-identification-system-from-scratch-with-deep-learning-f4c4aa558a56
-https://towardsdatascience.com/automatic-speaker-recognition-using-transfer-learning-6fab63e34e74
-https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
+https://towardsdatascience.com/automatic-speaker-recognition-using-transfer-learning-6fab63e34e74
+
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
 
 GLOSSARY OF TERMS AND DEFINITIONS
