@@ -42,6 +42,7 @@ https://www.youtube.com/watch?v=NYkbqzTlW3w
 Evaluation
 
 https://towardsdatascience.com/metrics-for-evaluating-machine-learning-classification-models-python-example-59b905e079a5
+
 https://towardsdatascience.com/the-proper-way-to-use-machine-learning-metrics-4803247a2578
 
 
