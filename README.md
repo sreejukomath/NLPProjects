@@ -264,6 +264,14 @@ https://towardsdatascience.com/automatic-speaker-recognition-using-transfer-lear
 
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
+KGCNs: Machine Learning over Knowledge Graphs with TensorFlow
+https://blog.grakn.ai/kgcns-machine-learning-over-knowledge-graphs-with-tensorflow-a1d3328b8f02
+
+https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a
+
+https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd
+
+
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
 
