@@ -271,6 +271,8 @@ https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a
 
 https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd
 
+https://github.com/Accenture/AmpliGraph
+
 
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
