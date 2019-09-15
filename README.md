@@ -265,6 +265,7 @@ https://towardsdatascience.com/automatic-speaker-recognition-using-transfer-lear
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
 KGCNs: Machine Learning over Knowledge Graphs with TensorFlow
+
 https://blog.grakn.ai/kgcns-machine-learning-over-knowledge-graphs-with-tensorflow-a1d3328b8f02
 
 https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a
@@ -272,6 +273,14 @@ https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a
 https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd
 
 https://github.com/Accenture/AmpliGraph
+
+Reinforcement Learning
+
+https://github.com/LuEE-C/Generative_NLP_RL_GAN
+
+https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
+
+https://www.youtube.com/watch?v=Jx_Twc75ka0&feature=youtu.be&t=368
 
 
 GLOSSARY OF TERMS AND DEFINITIONS
