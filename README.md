@@ -1,10 +1,5 @@
 # 10 Days NLP Challenge
 
-Google I/O samples
-
-
-https://github.com/GoogleCloudPlatform/ai-platform-text-classifier-shap
-
 >> Day 1 & Day 2: Basic NLP and semantic analysis
 
 Intellipaat: Natural Language Processing (NLP) Tutorial | NLP Training
