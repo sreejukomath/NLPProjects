@@ -281,4 +281,17 @@ https://www.youtube.com/watch?v=Jx_Twc75ka0&feature=youtu.be&t=368
 GLOSSARY OF TERMS AND DEFINITIONS
 https://www.analyticsinsight.net/understanding-artificial-intelligence-a-comprehensive-glossary-of-terms-and-definitions/
 
+CellStrat:Machine Learning Classification Algorithms
+
+https://www.youtube.com/watch?v=pEEwqBQHD68
+
+CellStrat:Introduction to Regression Techniques (Online Webinar)
+
+https://www.youtube.com/watch?v=7Tb63nc3aoM
+
+CellStrat:Types of Machine Learning 100918
+
+https://www.youtube.com/watch?v=pZ36Gyh0EbY
+
+
 
