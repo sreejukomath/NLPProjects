@@ -293,5 +293,7 @@ CellStrat:Types of Machine Learning 100918
 
 https://www.youtube.com/watch?v=pZ36Gyh0EbY
 
+Recursive Neural Tensor Networks (Online Webinar 230819)
 
+https://www.youtube.com/watch?v=k-L2Q6F1CVI
 
